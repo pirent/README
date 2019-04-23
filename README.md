@@ -1,5 +1,6 @@
 
 # Phuc's README
+A Manual for How to Understand My Manager 
 
 ## Motivation
 This documents serves as an introduction about me and my management style. I will also share my personalities applied at workplace, what I value, and what I expect from my teammates when working with me. This will help you understand me better since I've just started my journey as a manager recently. 😉
